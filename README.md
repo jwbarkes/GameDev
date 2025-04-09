@@ -16,4 +16,10 @@ Once this movement for both the player and camera were at a good baseline, I als
 </p>
 
 ## Week 2
-Started this week with beginning the map and pop ups. The pop ups will be used in combination with the map, so that when a notable location is reached a pop up with corresponding text will also pop up. The map uses [Park Assets](https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922) found on the Unity asset store.
+Started this week with beginning the map and pop ups. The pop ups will be used in combination with the map, so that when a notable location is reached a pop up with corresponding text will also pop up. The map uses [Park Assets](https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-61922) found on the Unity asset store. After completing a basic park, I combined it with the main scene in order to have a very basic demo of the truck moving around an environment.
+
+<p align="center">
+  <img src="Screenshots/GameDemo.gif" alt="Game Demo" width="350"/>
+  <br>
+  <strong>Simple Demo</strong>
+</p>
