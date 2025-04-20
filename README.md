@@ -1,3 +1,6 @@
+## Introduction
+This game is going to be a truck driving game, which also serves to as a way to show my skills in game development and as a sort of resume. The game will allow for the player to drive around a city that will have specific landmarks corresponding to important aspects of my life. I will be documenting my progress throughout the weeks as well as incorporating images and videos to give a visual demonstration.
+
 ## Week 1
 First week was used to set up the project and to get the basic movement and camera movement down. Decided that the movement would be a simple WASD control scheme and would allow for speeding up by pressing the Shift key.
 
