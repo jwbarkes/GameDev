@@ -26,3 +26,12 @@ Started this week with beginning the map and pop ups. The pop ups will be used i
   <br>
   <strong>Simple Demo</strong>
 </p>
+
+## Week 3
+This week, I wanted to first focus on making the pop ups look cleaner and allow for images to be attached to them. I used figma in order to create the new pop up menu, and changed the Unity UI canvas to this new menu. I also added a place to put images in the top left of the pop up menu, which will change depending on the location along with the text. The font for the menu was found on Google fonts and is called [Poetsen One](https://fonts.google.com/specimen/Poetsen+One).
+
+<p align="center">
+  <img src="Screenshots/PopUpMenu.png" alt="Pop Up Menu" width="350"/>
+  <br>
+  <strong>Pop Up Menu</strong>
+</p>
